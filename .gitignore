@@ -3,3 +3,6 @@ Scripts
 Lib
 Include
 *.cfg
+
+#py_cache
+__pycache__
